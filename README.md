@@ -1,5 +1,5 @@
 ## Hi there. I'm Mustafa...👋
-- 🔭 I’m working on frontend and mobile app development (JavaScript | React | Typescript)
+- 🔭 I’m working on frontend and mobile app development (JavaScript | React)
 - 🌱 I’m learning backend development (Django)
  
 ## 👨👩 Social
